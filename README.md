@@ -1,6 +1,6 @@
-- 👋 Hi, I’m wing sum
-- 👀 I’m interested in developing Android Mobile Apps 
-- 🌱 I’m currently learning English and Swift
+- 👋 Hi, I’m eric
+- 👀 I have 5 year experience in developing Android Mobile Apps 
+- 🌱 I’m currently learning English and ChatGPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> Feel free to drop me email
 
